@@ -11,7 +11,7 @@
 namespace _60898 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\mszczu\\documents\\visual studio 2017\\Projects\\60898\\60898\\_60898\\App.xaml" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\mszczu\\documents\\visual studio 2017\\Projects\\60898\\60898\\_60898\\App.xaml" +
         "")]
     public partial class App : global::Xamarin.Forms.Application {
         
